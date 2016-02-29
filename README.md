@@ -120,3 +120,14 @@
 + http://www.jeffjade.com/2015/10/19/2015-10-18-Efficacious-win-software/
 + http://ibruce.info/
 
+57.python采集工作地点地图：http://whereisjob.com/
+
+58.我的技术站：http://forsigner.com/2015/01/03/my-tech/
+
+59.最好的云存储：https://portal.qiniu.com/
+
+60.网页测速：http://www.webpagetest.org/
+
+61.图片压缩：https://tinypng.com/
+
+62.海贼王：http://manhua.fzdm.com/2/
