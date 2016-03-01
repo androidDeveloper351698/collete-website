@@ -133,3 +133,5 @@
 62.海贼王：http://manhua.fzdm.com/2/
 
 63.蜀乐微信（弹幕，微信墙）：http://www.wxyaoyiyao.com/
+
+64.39度发烧友：http://39.elecfans.com/
