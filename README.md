@@ -137,3 +137,5 @@
 64.39度发烧友：http://39.elecfans.com/
 
 65.23code（源码基地）：http://www.23code.com/
+
+66.app每日推送：http://appdp.com/
