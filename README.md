@@ -139,3 +139,5 @@
 65.23code（源码基地）：http://www.23code.com/
 
 66.app每日推送：http://appdp.com/
+
+67.机核网（游戏新闻）：http://www.g-cores.com/
