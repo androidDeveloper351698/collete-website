@@ -145,3 +145,7 @@
 68.下载youtobe视频：http://www.clipconverter.cc/convert/9X4laR2d/
 
 69.读者：http://www.duzhe.com/
+
+70.flickr:https://www.flickr.com/
+
+71.图虫（摄影的天下）：https://tuchong.com/
