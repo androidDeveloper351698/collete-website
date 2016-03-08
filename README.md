@@ -149,3 +149,5 @@
 70.flickr:https://www.flickr.com/
 
 71.图虫（摄影的天下）：https://tuchong.com/
+
+72.酷播电视电影http://www.kubo365.com/
