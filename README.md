@@ -153,3 +153,5 @@
 72.酷播电视电影http://www.kubo365.com/
 
 73.symfony文档（php框架）：http://symfony.cn/docs/
+
+74.putty：http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
