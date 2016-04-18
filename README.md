@@ -157,3 +157,9 @@
 74.putty：http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 75.creatJS：http://www.createjs.cc/
+
+76.贴图：http://imgur.com/
+
+77.图标下载：http://www.easyicon.net/
+
+78.压缩css：http://tools.w3clubs.com/cssmin/
