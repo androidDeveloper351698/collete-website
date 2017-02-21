@@ -163,13 +163,23 @@
 77.图标下载：http://www.easyicon.net/
 
 78.压缩css：http://tools.w3clubs.com/cssmin/
+
 79.MUDI文档（后端使用模版必备）：http://www.mdui.org/docs/
+
 80.算法背包问题：http://love-oriented.com/pack/
+
 81.Packagist（PHP包管理）:https://packagist.org/
+
 82.草料二维码生成器：https://cli.im/
+
 83.数字尾巴（摄影、生活、追求美）：http://www.dgtle.com/
+
 84.VPN（ss-panel，激活须邀请码，有需要可以联系我）：https://ssfastproxy.com/
+
 85.热播韩剧：http://y3600.com/
+
 86.markdown贴图（须翻墙）：http://imgur.com/
+
 87.redisdoc:http://redisdoc.com/
+
 88。洞悉漏洞：https://www.seebug.org/
